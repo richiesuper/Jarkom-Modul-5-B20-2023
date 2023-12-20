@@ -6,7 +6,7 @@
 |Richie Seputro|5025211213|Jarkom B|
 
 ## Topology GNS3
-
+![topologi](assets/topologi.png)
 
 
 ## Prefix IP
@@ -15,15 +15,16 @@
 ## Rute
 Berikut ini adalah rute yang kami buat dari hasil Topologi VLSM.
 
-![rute](<Screenshot 2023-12-20 183521.png>)
+![rute](assets/rute.png)
 
 ## Tree
 
-![tree](<Screenshot 2023-12-12 174310.png>)
+![tree](assets/tree.png)
 
 ## Pembagian IP
 
-![pembagianIP](<Screenshot 2023-12-20 184028.png>)
+![pembagianIP](assets/pembagianIP.png)
+
 
 ## Assign IP
 
